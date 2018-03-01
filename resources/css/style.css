@@ -34,4 +34,10 @@ p {
 
 .footer {
   text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
 }
