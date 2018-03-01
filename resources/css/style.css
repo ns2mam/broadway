@@ -7,13 +7,14 @@ a {
   color:white;
 }
 
-.header,
+header,
 .designed {
   background-image: url("../images/the-flatiron-building.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-color: dimgray;
   color: white;
 }
 
@@ -37,7 +38,7 @@ p {
   font-size: 14px;
 }
 
-.footer {
+footer {
   text-align: left;
   color: white;
   background-color: dimgray;
@@ -48,7 +49,6 @@ p {
 }
 
 h4,
-#footerlinks {
-  color: white;
+.footerlinks {
   font-size: 18px;
 }
