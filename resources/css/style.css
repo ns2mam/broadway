@@ -3,6 +3,10 @@ html {
   text-align: center;
 }
 
+a {
+  color:white;
+}
+
 .header,
 .designed {
   background-image: url("../images/the-flatiron-building.png");
@@ -12,6 +16,7 @@ html {
   background-size: cover;
   color: white;
 }
+
 
 h1 {
   font-size: 70px;
@@ -40,4 +45,10 @@ p {
 
 #copyright {
   font-size: 11px;
+}
+
+h4,
+#footerlinks {
+  color: white;
+  font-size: 18px;
 }
